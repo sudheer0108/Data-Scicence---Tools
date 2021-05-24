@@ -21,3 +21,7 @@
           d)Chi Squared Test
 
           e)Correlation
+
+
+clear_df.csv i sthe final file we get after doing wrangling.
+piechart.png is the  saved picture of pie chart for the operations we done in matplotlib.ipynb file.
