@@ -12,12 +12,12 @@
 
   6. Inferential Statistics
   
-     a)1 tailed T-test
+          a)1 tailed T-test
 
-      b)2 tailed/sample T-test
+          b)2 tailed/sample T-test
 
-      c)Paired T-test
+          c)Paired T-test
 
-      d)Chi Squared Test
+          d)Chi Squared Test
 
-      e)Correlation
+          e)Correlation
