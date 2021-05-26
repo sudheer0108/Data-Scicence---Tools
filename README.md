@@ -25,6 +25,8 @@
 
 * Data Exploration
 
+* Note : There is a report of exlpaining all these steps.
+
     * Reading the data
 
     * Variable Identification
