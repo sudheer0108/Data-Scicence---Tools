@@ -1,14 +1,14 @@
 # Some of Data Science tools
 
-    1. Numpy
+    * 1. Numpy
 
-    2. Matplotlib
+    * 2. Matplotlib
 
-    3. Data Wrangling
+    * 3. Data Wrangling
 
-    4. Pandas
+    * 4. Pandas
 
-    5. Basics of python which is useful for Data Science
+    * 5. Basics of python which is useful for Data Science
 
   * 6. Inferential Statistics
   
