@@ -27,6 +27,6 @@
 
 * piechart.png is the  saved picture of pie chart for the operations we done in matplotlib.ipynb file.
 
-*Data Exploration
+    *Data Exploration
 
-*Predictive Modelling
+    *Predictive Modelling
