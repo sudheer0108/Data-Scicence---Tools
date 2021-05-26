@@ -14,15 +14,28 @@
   
         * 1 tailed T-test
 
-        b)2 tailed/sample T-test
+        * 2 tailed/sample T-test
 
-        c)Paired T-test
+        * Paired T-test
 
-        d)Chi Squared Test
+        * Chi Squared Test
 
-        e)Correlation
+        * Correlation
 
 
 * Data Exploration
+        * Reading the data
+        * 
+        * Variable Identification
+        * 
+        * Univariate Analysis
+        * 
+        * Bivariate Analysis
+        * 
+        * Missing Value  Treatment
+        * 
+        * Outlier detection
+        * 
+        * Variable transformation
 
 * Predictive Modelling
