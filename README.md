@@ -25,7 +25,7 @@
 
 * Data Exploration
 
-* Note : There is a report of exlpaining all these steps.
+  * Note : There is a report of exlpaining all these steps.
 
     * Reading the data
 
