@@ -12,7 +12,7 @@
 
   *   Inferential Statistics
   
-        a)1 tailed T-test
+        * 1 tailed T-test
 
         b)2 tailed/sample T-test
 
