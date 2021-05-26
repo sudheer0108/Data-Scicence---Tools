@@ -10,7 +10,7 @@
 
     5. Basics of python which is useful for Data Science
 
-  6. Inferential Statistics
+  * 6. Inferential Statistics
   
           a)1 tailed T-test
 
@@ -22,10 +22,6 @@
 
           e)Correlation
 
-
-* clear_df.csv i sthe final file we get after doing wrangling.
-
-* piechart.png is the  saved picture of pie chart for the operations we done in matplotlib.ipynb file.
 
 * Data Exploration
 
