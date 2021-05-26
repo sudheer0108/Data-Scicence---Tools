@@ -25,18 +25,18 @@
 
 * Data Exploration
 
-      * Reading the data
+    * Reading the data
 
-      * Variable Identification
+    * Variable Identification
 
-      * Univariate Analysis
+    * Univariate Analysis
 
-      * Bivariate Analysis
+    * Bivariate Analysis
 
-      * Missing Value  Treatment
+    * Missing Value  Treatment
 
-      * Outlier detection
+    * Outlier detection
 
-      * Variable transformation
+    * Variable transformation
 
 * Predictive Modelling
