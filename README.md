@@ -40,3 +40,12 @@
     * Variable transformation
 
 * Predictive Modelling
+
+    * Linear Regression
+    
+    * Logistsic Regression
+    
+    * Decision Trees
+    
+    * K means clustering
+    
